@@ -1,4 +1,4 @@
-## Donation
+## MyGPT
 
-[Buy Me a Coffee](https://www.reardonyang.com)
+[个人主页](https://www.reardonyang.com)
 

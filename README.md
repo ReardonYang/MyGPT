@@ -5,6 +5,9 @@
 #### 访问地址
 `https://www.3570000.xyz/`
 
+#### 我的博客
+`https://www.reardonyang.com/`
+
 #### 原作者
 `https://github.com/Yidadaa/ChatGPT-Next-Web`
 

@@ -1,5 +1,7 @@
-## MyGPT：私人ChatGPT助手
-***
+# MyGPT：私人ChatGPT助手
+
+
+
 ### 访问地址
 https://www.3570000.xyz/
 
@@ -7,7 +9,7 @@ https://www.3570000.xyz/
 https://github.com/Yidadaa/ChatGPT-Next-Web
 
 ### 访问密码
-[请联系](https://twitter.com/ReardonYang)
+[请联系Reardon](https://twitter.com/ReardonYang)
 
 ### 捐赠
 * BTC：`321sCmLJoqDCARmngJqhPiomBbs2BBxuXy`

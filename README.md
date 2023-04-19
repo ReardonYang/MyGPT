@@ -1,4 +1,11 @@
-## MyGPT
+## MyGPT：私人ChatGPT助手
 
-[个人主页](https://www.reardonyang.com)
+***
+
+### 访问地址
+https://www.3570000.xyz/
+
+### 捐赠
+* BTC：`321sCmLJoqDCARmngJqhPiomBbs2BBxuXy`
+* DOGE：`DAsdYRZXtDZBstn4Qu3EkRnJr9g3EwRemv`
 

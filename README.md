@@ -18,4 +18,4 @@
 
 #### 捐赠
 * `BTC：321sCmLJoqDCARmngJqhPiomBbs2BBxuXy`
-* DOGE：`DAsdYRZXtDZBstn4Qu3EkRnJr9g3EwRemv`
+* `DOGE：DAsdYRZXtDZBstn4Qu3EkRnJr9g3EwRemv`

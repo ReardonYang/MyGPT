@@ -9,7 +9,7 @@ https://www.3570000.xyz/
 https://github.com/Yidadaa/ChatGPT-Next-Web
 
 #### 访问密码
-[请联系Reardon](https://twitter.com/ReardonYang)
+[请联系我：Reardon](https://twitter.com/ReardonYang)
 
 #### 捐赠
 * BTC：`321sCmLJoqDCARmngJqhPiomBbs2BBxuXy`
